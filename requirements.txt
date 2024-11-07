@@ -7,5 +7,5 @@ catboost
 xgboost
 Flask
 streamlit
-
+dill
 #-e .
